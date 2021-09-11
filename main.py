@@ -50,4 +50,4 @@ def home():
 
 # Main File Run Debug Mode
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(port=8000)
