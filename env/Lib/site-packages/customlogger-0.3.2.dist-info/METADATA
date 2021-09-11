@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: customlogger
+Version: 0.3.2
+Summary: custom logger class.
+Home-page: UNKNOWN
+Author: deresmos
+Author-email: deresmos@gmail.com
+License: MIT License
+Keywords: logging,Logger,custom
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: colorlog
+
+UNKNOWN
+
+

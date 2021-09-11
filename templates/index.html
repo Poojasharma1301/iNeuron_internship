@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Flight Fare Prediction</title>
+	<!--<link rel="stylesheet" type="text/css" href="style.css"> -->
+	<link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
+	<link rel="icon" href="data:,">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+	<style>
+	
+	*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+
+	body{
+		   background-image: url(https://images.unsplash.com/photo-1579360826591-2c98525b8dbb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80) !important;
+           background-repeat: no-repeat !important;
+            background-size: 100% 100%!important;
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+		}
+		
+		.container{
+			position: relative;
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			padding: 20px 100px;
+		}
+		
+		
+		.contact-box{
+			max-width: 850px;
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			background-color: #fff;
+			box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+		}
+		
+		.left{
+			
+			background-image: url(https://images.unsplash.com/photo-1531642765602-5cae8bbbf285?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=309&q=80) !important;
+           background-repeat: no-repeat !important;
+              background-size: 100% 100%!important;
+
+			background-size: cover;
+			height: 100%;
+		}
+		
+		.right{
+			padding: 25px 40px;
+			background-color: rgb(211, 218, 217);
+		}
+		
+		h2{
+			position: relative;
+			padding: 0 0 10px;
+			margin-bottom: 10px;
+		}
+		
+		h2:after{
+			content: '';
+			position: absolute;
+			left: 50%;
+			bottom: 0;
+			transform: translateX(-50%);
+			height: 4px;
+			width: 300px;
+			border-radius: 2px;
+			background-color: #1a2324;
+		}
+		
+		.field{
+			width: 100%;
+			border: 2px solid rgba(0, 0, 0, 0);
+			outline: none;
+			background-color: rgb(211, 218, 217);
+			padding: 0.5rem 1rem;
+			font-size: 1.1rem;
+			margin-bottom: 22px;
+			transition: .3s;
+		}
+		
+		.field:hover{
+			background-color: rgba(0, 0, 0, 0.1);
+		}
+		
+		textarea{
+			min-height: 150px;
+		}
+		
+	
+		.field:focus{
+			border: 2px solid rgba(30,85,250,0.47);
+			background-color: #fff;
+		}
+		
+		@media screen and (max-width: 880px){
+			.contact-box{
+				grid-template-columns: 1fr;
+			}
+			.left{
+				height: 200px;
+			}
+		}
+		
+		.footer {position: fixed;
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(211, 218, 217);
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+.button{
+	border-radius: 200px;
+ background-color: rgb(35, 36, 36);
+ color: rgb(208, 213, 216);
+  border: rgb(0, 0, 0);
+ padding: 5px 5px;
+ width:300px;
+  text-align: center;
+  font-size: 16px;
+ 
+  transition: 0.3s;}
+		
+		.button:hover{
+			background-color: #576a6b;
+		} 
+</style>
+		
+	
+</head>
+<body>
+
+	<div class="container">
+		<form action="" method="post">
+
+		<div class="contact-box">
+			<div class="left" ></div>
+			<div class="right">
+				
+				
+				<h2>Flight Fare Prediction</h2>
+				<div class="form-group" >
+					
+						<div class="user-details">
+				
+						  <div class="input-box">
+							<span class="details">{{form.Airline.label}} </span>
+							<p>{{ form.Airline()}} </p>
+						  </div>
+				
+						  <div class="input-box">
+							<span class="details">{{ form.Source.label }}</span>
+							<p>{{ form.Source()}} </p>
+						  </div>
+				
+						  <div class="input-box">
+							<span class="details">{{ form.Destination.label }}</span>
+							<p>{{ form.Destination()}} </p>
+						  </div>
+				
+						  <div class="input-box">
+							<span class="details">{{ form.Total_Stops.label }}</span>
+							<p>{{ form.Total_Stops()}} </p>
+						  </div>
+				
+						  <div class="input-box">
+							<span class="details">{{ form.Departure_Date.label }}</span>
+							<p>{{ form.Departure_Date()}} </p>
+						  </div>
+				
+						  <div class="input-box">
+							<span class="details">{{ form.Total_Duration.label }}</span>
+							<p>{{ form.Total_Duration()}} </p>
+						  </div>
+				
+						</div>
+				
+						<div class="input-box">
+							<span class="details">OUTPUT</span>
+							<p> Your Total Flight Fare is Approx : {{ value1 }} - {{ value2 }} {{Rs}} </p>
+						</div>
+				
+						<div class="button">
+						  <p> {{ form.submit()}} </p>
+						</div>
+						
+					  </form>
+					 </div>
+					
+				<div class="footer">
+					<h6 >Developed by Pooja Sharma <a href="https://github.com/Poojasharma1301"><i class="ml-5 fa fa-github fa-2x" aria-hidden="true"></i></a><a href="https://www.linkedin.com/in/pooja-sharma-42448b1b1/"><i class="ml-5 fa fa-linkedin fa-2x" aria-hidden="true"></i></a></h6>
+
+				  </div>
+					
+				
+	
+
+	
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+</body>
+
+</html>

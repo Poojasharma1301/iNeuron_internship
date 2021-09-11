@@ -1,0 +1,393 @@
+05-09-2021 23:47:23,INFO,Requested method : POST
+05-09-2021 23:47:47,INFO,Pickle Model Loaded
+05-09-2021 23:47:47,INFO,Data Converted 
+05-09-2021 23:47:47,ERROR,Excepted integer got String
+05-09-2021 23:48:01,INFO,Requested method : POST
+05-09-2021 23:48:01,INFO,Pickle Model Loaded
+05-09-2021 23:48:01,INFO,Data Converted 
+05-09-2021 23:48:01,INFO,Threading Called !
+05-09-2021 23:48:01,INFO,Threading Created !
+05-09-2021 23:48:01,INFO,Data received From User : {'Airline': 'Multiple carriers', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-01', 'Total_Duration': 2, 'submit': ' Calculate Total Flight Fare! '}
+05-09-2021 23:48:01,INFO,Data for Database: {'Airline': 'Multiple carriers', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-01', 'Total_Duration': 2, 'submit': ' Calculate Total Flight Fare! '}
+05-09-2021 23:48:01,INFO,Threading Started !
+05-09-2021 23:48:01,INFO,Data Cleaned : {'Airline': 'Multiple carriers', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '01'}
+05-09-2021 23:48:01,INFO,Obj created
+05-09-2021 23:48:31,INFO,Threading join !
+05-09-2021 23:48:32,ERROR,Excepted integer got String
+06-09-2021 00:18:09,INFO,Requested method : POST
+06-09-2021 00:18:09,INFO,Pickle Model Loaded
+06-09-2021 00:18:09,INFO,Data Converted 
+06-09-2021 00:18:09,INFO,Threading Called !
+06-09-2021 00:18:09,INFO,Threading Created !
+06-09-2021 00:18:09,INFO,Data for Database: {'Airline': 'Air India', 'Source': 'Kolkata', 'Destination': 'Banglore', 'Total_Stops': '2 stops', 'Departure_Date': '2021-09-29', 'Total_Duration': 2, 'submit': ' Calculate Total Flight Fare! '}
+06-09-2021 00:18:09,INFO,Data received From User : {'Airline': 'Air India', 'Source': 'Kolkata', 'Destination': 'Banglore', 'Total_Stops': '2 stops', 'Departure_Date': '2021-09-29', 'Total_Duration': 2, 'submit': ' Calculate Total Flight Fare! '}
+06-09-2021 00:18:09,INFO,Threading Started !
+06-09-2021 00:18:09,INFO,Data Cleaned : {'Airline': 'Air India', 'Source': 'Kolkata', 'Destination': 'Banglore', 'Total_Stops': '2 stops', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '29'}
+06-09-2021 00:18:09,INFO,Obj created
+06-09-2021 00:18:39,INFO,Threading join !
+06-09-2021 00:18:39,ERROR,Excepted integer got String
+06-09-2021 00:29:19,INFO,Requested method : POST
+06-09-2021 00:29:19,INFO,Pickle Model Loaded
+06-09-2021 00:29:19,INFO,Data Converted 
+06-09-2021 00:29:19,INFO,Threading Called !
+06-09-2021 00:29:19,INFO,Threading Created !
+06-09-2021 00:29:19,INFO,Threading Started !
+06-09-2021 00:29:19,INFO,Data received From User : {'Airline': 'SpiceJet', 'Source': 'Delhi', 'Destination': 'Cochin', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-21', 'Total_Duration': 5, 'submit': ' Calculate Total Flight Fare! '}
+06-09-2021 00:29:19,INFO,Data for Database: {'Airline': 'SpiceJet', 'Source': 'Delhi', 'Destination': 'Cochin', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-21', 'Total_Duration': 5, 'submit': ' Calculate Total Flight Fare! '}
+06-09-2021 00:29:19,INFO,Data Cleaned : {'Airline': 'SpiceJet', 'Source': 'Delhi', 'Destination': 'Cochin', 'Total_Stops': 'non-stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '21'}
+06-09-2021 00:29:19,INFO,Obj created
+06-09-2021 00:29:46,INFO,Threading join !
+06-09-2021 00:29:46,ERROR,Excepted integer got String
+06-09-2021 00:35:46,INFO,Requested method : POST
+06-09-2021 00:35:46,INFO,Pickle Model Loaded
+06-09-2021 00:35:46,INFO,Data Converted 
+06-09-2021 00:35:46,INFO,Threading Called !
+06-09-2021 00:35:47,INFO,Threading Created !
+06-09-2021 00:35:47,INFO,Data received From User : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-29', 'Total_Duration': 2, 'submit': ' Calculate Total Flight Fare! '}
+06-09-2021 00:35:47,INFO,Threading Started !
+Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-29', 'Total_Duration': 2, 'submit': ' Calculate Total Flight Fare! '}
+06-09-2021 00:35:47,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '29'}
+06-09-2021 00:35:47,INFO,Obj created
+06-09-2021 00:36:13,INFO,Threading join !
+06-09-2021 00:36:13,ERROR,Excepted integer got String
+06-09-2021 00:41:01,INFO,POST Method is requested
+06-09-2021 00:41:09,INFO,Model which is in Pickle format is loaded
+06-09-2021 00:41:09,INFO,Data is Converted 
+06-09-2021 00:41:09,INFO,Threading Called !
+06-09-2021 00:41:10,INFO,Threading Created !
+06-09-2021 00:41:10,INFO,Data is received  : {'Airline': 'Vistara Premium economy', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 00:41:10,INFO,Data for Database: {'Airline': 'Vistara Premium economy', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 00:41:10,INFO,Threading Started !
+06-09-2021 00:41:10,INFO,Obj created
+06-09-2021 00:41:10,INFO,Data Cleaned : {'Airline': 'Vistara Premium economy', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '22'}
+06-09-2021 00:41:10,INFO,Frame created and data appended
+06-09-2021 00:41:10,INFO,Dummy variables created from received data
+06-09-2021 00:41:10,INFO,Data scaled and sent for prediction
+06-09-2021 00:41:39,INFO,Threading join !
+06-09-2021 00:41:39,ERROR,Excepted integer got String
+06-09-2021 00:59:21,INFO,POST Method is requested
+06-09-2021 00:59:34,INFO,Model which is in Pickle format is loaded
+06-09-2021 00:59:35,INFO,Data is Converted 
+06-09-2021 00:59:35,INFO,Threading Called !
+06-09-2021 00:59:35,INFO,Threading Created !
+06-09-2021 00:59:35,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 00:59:35,INFO,Threading Started !
+06-09-2021 00:59:35,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 00:59:35,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '15'}
+06-09-2021 00:59:35,INFO,Frame created and data appended
+06-09-2021 00:59:36,INFO,Dummy variables created from received data
+06-09-2021 00:59:36,INFO,Data scaled and sent for prediction
+06-09-2021 00:59:36,INFO,Threading join !
+06-09-2021 00:59:36,INFO,Prediction is done successfully!
+06-09-2021 00:59:36,INFO,Output displayed!
+06-09-2021 01:05:09,INFO,POST Method is requested
+06-09-2021 01:05:09,INFO,Model which is in Pickle format is loaded
+06-09-2021 01:05:09,INFO,Data is Converted 
+06-09-2021 01:05:09,INFO,Threading Called !
+06-09-2021 01:05:09,INFO,Threading Created !
+06-09-2021 01:05:09,INFO,Threading Started !
+06-09-2021 01:05:09,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 01:05:09,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 01:05:09,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '15'}
+06-09-2021 01:05:09,INFO,Frame created and data appended
+06-09-2021 01:05:10,INFO,Dummy variables created from received data
+06-09-2021 01:05:10,INFO,Data scaled and sent for prediction
+06-09-2021 01:05:10,INFO,Threading join !
+06-09-2021 01:05:10,INFO,Prediction is done successfully!
+06-09-2021 01:05:10,INFO,Output displayed!
+06-09-2021 01:05:16,INFO,POST Method is requested
+06-09-2021 01:05:16,INFO,Model which is in Pickle format is loaded
+06-09-2021 01:05:16,INFO,Data is Converted 
+06-09-2021 01:05:16,INFO,Threading Called !
+06-09-2021 01:05:16,INFO,Threading Created !
+06-09-2021 01:05:16,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 01:05:16,INFO,Threading Started !
+06-09-2021 01:05:16,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Calculate '}
+06-09-2021 01:05:16,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '15'}
+06-09-2021 01:05:16,INFO,Frame created and data appended
+06-09-2021 01:05:16,INFO,Dummy variables created from received data
+06-09-2021 01:05:16,INFO,Data scaled and sent for prediction
+06-09-2021 01:05:16,INFO,Threading join !
+06-09-2021 01:05:16,INFO,Prediction is done successfully!
+06-09-2021 01:05:16,INFO,Output displayed!
+06-09-2021 14:51:59,INFO,POST Method is requested
+06-09-2021 14:52:33,INFO,Model which is in Pickle format is loaded
+06-09-2021 14:52:33,INFO,Data is Converted 
+06-09-2021 14:52:33,INFO,Threading Called !
+06-09-2021 14:52:33,INFO,Threading Created !
+06-09-2021 14:52:33,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-16', 'Total_Duration': 3, 'submit': ' Calculate '}
+06-09-2021 14:52:33,INFO,Threading Started !
+06-09-2021 14:52:33,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-16', 'Total_Duration': 3, 'submit': ' Calculate '}
+06-09-2021 14:52:33,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Total_Duration': 3, 'Journey_month': '09', 'Journey_day': '16'}
+06-09-2021 14:52:33,INFO,Obj created
+06-09-2021 14:52:34,INFO,Frame created and data appended
+06-09-2021 14:52:34,INFO,Dummy variables created from received data
+06-09-2021 14:52:34,INFO,Data scaled and sent for prediction
+06-09-2021 14:52:54,INFO,Inside addData
+06-09-2021 14:52:54,INFO,Inside addData
+06-09-2021 14:52:54,INFO,String created
+06-09-2021 14:52:54,INFO,Key created
+06-09-2021 14:52:54,INFO,Data retrieved
+06-09-2021 14:52:54,INFO,Threading join !
+06-09-2021 14:52:54,INFO,Prediction is done successfully!
+06-09-2021 14:52:54,INFO,Output displayed!
+06-09-2021 15:37:15,INFO,POST Method is requested
+06-09-2021 15:37:15,INFO,Model which is in Pickle format is loaded
+06-09-2021 15:37:16,INFO,Data is Converted 
+06-09-2021 15:37:16,INFO,Threading Called !
+06-09-2021 15:37:16,INFO,Threading Created !
+06-09-2021 15:37:16,INFO,Threading Started !
+06-09-2021 15:37:16,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-16', 'Total_Duration': 3, 'submit': ' Calculate '}
+06-09-2021 15:37:16,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-16', 'Total_Duration': 3, 'submit': ' Calculate '}
+06-09-2021 15:37:16,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Total_Duration': 3, 'Journey_month': '09', 'Journey_day': '16'}
+06-09-2021 15:37:16,INFO,Frame created and data appended
+06-09-2021 15:37:16,INFO,Dummy variables created from received data
+06-09-2021 15:37:16,INFO,Data scaled and sent for prediction
+06-09-2021 15:37:16,INFO,Threading join !
+06-09-2021 15:37:16,INFO,Prediction is done successfully!
+06-09-2021 15:37:16,INFO,Output displayed!
+07-09-2021 00:47:27,INFO,POST Method is requested
+07-09-2021 00:47:53,INFO,Model which is in Pickle format is loaded
+07-09-2021 00:47:53,INFO,Data is Converted 
+07-09-2021 00:47:53,INFO,Threading Called !
+07-09-2021 00:47:53,INFO,Threading Created !
+07-09-2021 00:47:53,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '2 stops', 'Departure_Date': '2021-09-16', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 00:47:53,INFO,Threading Started !
+07-09-2021 00:47:53,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '2 stops', 'Departure_Date': '2021-09-16', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 00:47:53,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': '2 stops', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '16'}
+07-09-2021 00:47:53,INFO,Frame created and data appended
+07-09-2021 00:47:53,INFO,Dummy variables created from received data
+07-09-2021 00:47:53,INFO,Data scaled and sent for prediction
+07-09-2021 00:47:53,INFO,Threading join !
+07-09-2021 00:47:53,INFO,Prediction is done successfully!
+07-09-2021 00:47:53,INFO,Output displayed!
+07-09-2021 10:14:06,INFO,POST Method is requested
+07-09-2021 10:14:14,INFO,POST Method is requested
+07-09-2021 10:14:21,INFO,Model which is in Pickle format is loaded
+07-09-2021 10:14:21,INFO,Model which is in Pickle format is loaded
+07-09-2021 10:14:21,INFO,Data is Converted 
+07-09-2021 10:14:21,INFO,Data is Converted 
+07-09-2021 10:14:21,INFO,Threading Called !
+07-09-2021 10:14:21,INFO,Threading Called !
+07-09-2021 10:14:21,INFO,Threading Created !
+07-09-2021 10:14:21,INFO,Threading Created !
+07-09-2021 10:14:21,INFO,Threading Started !
+07-09-2021 10:14:21,INFO,Data for Database: {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 10:14:21,INFO,Data is received  : {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 10:14:21,INFO,Data for Database: {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 10:14:21,INFO,Threading Started !
+07-09-2021 10:14:21,INFO,Data is received  : {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 10:14:21,INFO,Obj created
+07-09-2021 10:14:21,INFO,Data Cleaned : {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '15'}
+07-09-2021 10:14:21,INFO,Data Cleaned : {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '15'}
+07-09-2021 10:14:22,INFO,Frame created and data appended
+07-09-2021 10:14:22,INFO,Frame created and data appended
+07-09-2021 10:14:22,INFO,Dummy variables created from received data
+07-09-2021 10:14:22,INFO,Dummy variables created from received data
+07-09-2021 10:14:22,INFO,Data scaled and sent for prediction
+07-09-2021 10:14:22,INFO,Data scaled and sent for prediction
+07-09-2021 10:14:22,INFO,Threading join !
+07-09-2021 10:14:22,INFO,Prediction is done successfully!
+07-09-2021 10:14:22,INFO,Output displayed!
+07-09-2021 10:14:41,INFO,Inside addData
+07-09-2021 10:14:41,INFO,Inside addData
+07-09-2021 10:14:41,INFO,String created
+07-09-2021 10:14:41,INFO,Key created
+07-09-2021 10:14:41,INFO,Data retrieved
+07-09-2021 10:14:41,INFO,Threading join !
+07-09-2021 10:14:41,INFO,Prediction is done successfully!
+07-09-2021 10:14:41,INFO,Output displayed!
+07-09-2021 10:20:27,INFO,POST Method is requested
+07-09-2021 10:20:27,INFO,Model which is in Pickle format is loaded
+07-09-2021 10:20:27,INFO,Data is Converted 
+07-09-2021 10:20:27,INFO,Threading Called !
+07-09-2021 10:20:27,INFO,Threading Created !
+07-09-2021 10:20:27,INFO,Threading Started !
+07-09-2021 10:20:27,INFO,Data is received  : {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 10:20:27,INFO,Data for Database: {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 5, 'submit': ' Calculate '}
+07-09-2021 10:20:27,INFO,Data Cleaned : {'Airline': 'Jet Airways', 'Source': 'Kolkata', 'Destination': 'Delhi', 'Total_Stops': '1 stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '15'}
+07-09-2021 10:20:27,INFO,Obj created
+07-09-2021 10:20:27,INFO,Frame created and data appended
+07-09-2021 10:20:27,INFO,Dummy variables created from received data
+07-09-2021 10:20:27,INFO,Data scaled and sent for prediction
+07-09-2021 10:21:02,INFO,Inside addData
+07-09-2021 10:21:02,INFO,Inside addData
+07-09-2021 10:21:02,INFO,String created
+07-09-2021 10:21:02,INFO,Key created
+07-09-2021 10:21:02,INFO,Data retrieved
+07-09-2021 10:21:03,INFO,Threading join !
+07-09-2021 10:21:03,INFO,Prediction is done successfully!
+07-09-2021 10:21:03,INFO,Output displayed!
+07-09-2021 12:11:04,INFO,POST Method is requested
+07-09-2021 12:11:22,INFO,POST Method is requested
+07-09-2021 12:14:07,INFO,POST Method is requested
+07-09-2021 12:14:27,INFO,Model which is in Pickle format is loaded
+07-09-2021 12:14:28,INFO,Data is Converted 
+07-09-2021 12:14:28,INFO,Threading Called !
+07-09-2021 12:14:28,INFO,Threading Created !
+07-09-2021 12:14:28,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-30', 'Total_Duration': 5, 'submit': ' Prediction'}
+07-09-2021 12:14:28,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-30', 'Total_Duration': 5, 'submit': ' Prediction'}
+07-09-2021 12:14:28,INFO,Threading Started !
+07-09-2021 12:14:28,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '30'}
+07-09-2021 12:14:28,INFO,Frame created and data appended
+07-09-2021 12:14:28,INFO,Dummy variables created from received data
+07-09-2021 12:14:28,INFO,Data scaled and sent for prediction
+07-09-2021 12:14:28,INFO,Threading join !
+07-09-2021 12:14:28,INFO,Prediction is done successfully!
+07-09-2021 12:14:28,INFO,Output displayed!
+07-09-2021 12:15:18,INFO,POST Method is requested
+07-09-2021 12:15:18,INFO,Model which is in Pickle format is loaded
+07-09-2021 12:15:18,INFO,Data is Converted 
+07-09-2021 12:15:29,INFO,POST Method is requested
+07-09-2021 12:15:29,INFO,Model which is in Pickle format is loaded
+07-09-2021 12:15:29,INFO,Data is Converted 
+07-09-2021 12:15:29,ERROR,Excepted integer got String
+07-09-2021 12:16:11,INFO,Obj created
+07-09-2021 19:24:27,INFO,POST Method is requested
+07-09-2021 19:24:41,INFO,POST Method is requested
+07-09-2021 19:38:54,INFO,POST Method is requested
+07-09-2021 19:47:35,INFO,POST Method is requested
+07-09-2021 19:48:00,INFO,Model which is in Pickle format is loaded
+07-09-2021 19:48:00,INFO,Data is Converted 
+07-09-2021 19:48:00,INFO,Threading Called !
+07-09-2021 19:48:00,INFO,Threading Created !
+07-09-2021 19:48:00,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': 5, 'submit': ' Prediction'}
+07-09-2021 19:48:00,INFO,Threading Started !
+07-09-2021 19:48:00,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': 5, 'submit': ' Prediction'}
+07-09-2021 19:48:00,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '22'}
+07-09-2021 19:48:00,INFO,Obj created
+07-09-2021 19:48:01,INFO,Frame created and data appended
+07-09-2021 19:48:01,INFO,Dummy variables created from received data
+07-09-2021 19:48:01,INFO,Data scaled and sent for prediction
+07-09-2021 19:48:27,INFO,Inside addData
+07-09-2021 19:48:28,INFO,Inside addData
+07-09-2021 19:48:28,INFO,String created
+07-09-2021 19:48:28,INFO,Key created
+07-09-2021 19:48:28,INFO,Data retrieved
+07-09-2021 19:48:28,INFO,Threading join !
+07-09-2021 19:48:28,INFO,Prediction is done successfully!
+07-09-2021 19:48:28,INFO,Output displayed!
+07-09-2021 21:14:19,INFO,POST Method is requested
+07-09-2021 21:14:37,INFO,Model which is in Pickle format is loaded
+07-09-2021 21:14:37,INFO,Data is Converted 
+07-09-2021 21:14:37,INFO,Threading Called !
+07-09-2021 21:14:37,INFO,Threading Created !
+07-09-2021 21:14:37,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Prediction'}
+07-09-2021 21:14:37,INFO,Threading Started !
+07-09-2021 21:14:37,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Prediction'}
+07-09-2021 21:14:37,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '15'}
+07-09-2021 21:14:37,INFO,Obj created
+07-09-2021 21:14:37,INFO,Frame created and data appended
+07-09-2021 21:14:38,INFO,Dummy variables created from received data
+07-09-2021 21:14:38,INFO,Data scaled and sent for prediction
+07-09-2021 21:14:56,INFO,Inside addData
+07-09-2021 21:14:56,INFO,Inside addData
+07-09-2021 21:14:56,INFO,String created
+07-09-2021 21:14:56,INFO,Key created
+07-09-2021 21:14:57,INFO,Data retrieved
+07-09-2021 21:14:57,INFO,Threading join !
+07-09-2021 21:14:57,INFO,Prediction is done successfully!
+07-09-2021 21:14:57,INFO,Output displayed!
+10-09-2021 22:06:25,INFO,POST Method is requested
+10-09-2021 22:06:53,INFO,Model which is in Pickle format is loaded
+10-09-2021 22:06:53,INFO,Data is Converted 
+10-09-2021 22:06:53,INFO,Threading Called !
+10-09-2021 22:06:53,INFO,Threading Created !
+10-09-2021 22:06:53,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Prediction'}
+10-09-2021 22:06:53,INFO,Threading Started !
+10-09-2021 22:06:53,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Prediction'}
+10-09-2021 22:06:53,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '15'}
+10-09-2021 22:06:53,INFO,Obj created
+10-09-2021 22:06:53,INFO,Frame created and data appended
+10-09-2021 22:06:54,INFO,Dummy variables created from received data
+10-09-2021 22:06:54,INFO,Data scaled and sent for prediction
+10-09-2021 22:07:16,INFO,Inside addData
+10-09-2021 22:07:16,INFO,Inside addData
+10-09-2021 22:07:16,INFO,String created
+10-09-2021 22:07:16,INFO,Key created
+10-09-2021 22:07:16,INFO,Data retrieved
+10-09-2021 22:07:16,INFO,Threading join !
+10-09-2021 22:07:16,INFO,Prediction is done successfully!
+10-09-2021 22:07:16,INFO,Output displayed!
+10-09-2021 23:15:05,INFO,POST Method is requested
+10-09-2021 23:15:25,INFO,Model which is in Pickle format is loaded
+10-09-2021 23:15:25,INFO,Data is Converted 
+10-09-2021 23:15:25,INFO,Threading Called !
+10-09-2021 23:15:25,INFO,Threading Created !
+10-09-2021 23:15:25,INFO,Threading Started !
+10-09-2021 23:15:25,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-23', 'Total_Duration': 2, 'submit': ' Prediction'}
+10-09-2021 23:15:25,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-23', 'Total_Duration': 2, 'submit': ' Prediction'}
+10-09-2021 23:15:25,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '23'}
+10-09-2021 23:15:26,INFO,Frame created and data appended
+10-09-2021 23:15:26,INFO,Dummy variables created from received data
+10-09-2021 23:15:26,INFO,Data scaled and sent for prediction
+10-09-2021 23:15:26,INFO,Threading join !
+10-09-2021 23:15:26,INFO,Prediction is done successfully!
+10-09-2021 23:15:27,INFO,Output displayed!
+11-09-2021 12:23:43,INFO,POST Method is requested
+11-09-2021 12:24:08,INFO,Model which is in Pickle format is loaded
+11-09-2021 12:24:08,INFO,Data is Converted 
+11-09-2021 12:24:08,INFO,Threading Called !
+11-09-2021 12:24:08,INFO,Threading Created !
+11-09-2021 12:24:08,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Prediction'}
+11-09-2021 12:24:08,INFO,Threading Started !
+11-09-2021 12:24:08,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-15', 'Total_Duration': 2, 'submit': ' Prediction'}
+11-09-2021 12:24:08,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 2, 'Journey_month': '09', 'Journey_day': '15'}
+11-09-2021 12:24:08,INFO,Frame created and data appended
+11-09-2021 12:24:08,INFO,Dummy variables created from received data
+11-09-2021 12:24:09,INFO,Data scaled and sent for prediction
+11-09-2021 12:24:09,INFO,Threading join !
+11-09-2021 12:24:09,INFO,Prediction is done successfully!
+11-09-2021 12:24:09,INFO,Output displayed!
+11-09-2021 16:05:16,INFO,POST Method is requested
+11-09-2021 16:05:31,INFO,Model which is in Pickle format is loaded
+11-09-2021 16:05:31,INFO,Data is Converted 
+11-09-2021 16:05:31,INFO,Threading Called !
+11-09-2021 16:05:31,INFO,Threading Created !
+11-09-2021 16:05:31,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-07', 'Total_Duration': 5, 'submit': ' Prediction'}
+11-09-2021 16:05:31,INFO,Threading Started !
+11-09-2021 16:05:31,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-07', 'Total_Duration': 5, 'submit': ' Prediction'}
+11-09-2021 16:05:31,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '07'}
+11-09-2021 16:05:31,INFO,Frame created and data appended
+11-09-2021 16:05:31,INFO,Dummy variables created from received data
+11-09-2021 16:05:31,INFO,Data scaled and sent for prediction
+11-09-2021 16:05:31,INFO,Threading join !
+11-09-2021 16:05:31,INFO,Prediction is done successfully!
+11-09-2021 16:05:31,INFO,Output displayed!
+11-09-2021 20:48:48,INFO,POST Method is requested
+11-09-2021 20:48:56,INFO,Model which is in Pickle format is loaded
+11-09-2021 20:48:56,INFO,Data is Converted 
+11-09-2021 20:48:56,INFO,Threading Called !
+11-09-2021 20:48:56,INFO,Threading Created !
+11-09-2021 20:48:56,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': 5, 'submit': ' Prediction'}
+11-09-2021 20:48:56,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': 5, 'submit': ' Prediction'}
+11-09-2021 20:48:56,INFO,Threading Started !
+11-09-2021 20:48:56,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': 5, 'Journey_month': '09', 'Journey_day': '22'}
+11-09-2021 20:48:57,INFO,Frame created and data appended
+11-09-2021 20:48:57,INFO,Dummy variables created from received data
+11-09-2021 20:48:57,INFO,Data scaled and sent for prediction
+11-09-2021 20:48:57,INFO,Threading join !
+11-09-2021 20:48:57,INFO,Prediction is done successfully!
+11-09-2021 20:48:57,INFO,Output displayed!
+11-09-2021 20:49:17,INFO,POST Method is requested
+11-09-2021 20:49:17,INFO,Model which is in Pickle format is loaded
+11-09-2021 20:49:17,INFO,Data is Converted 
+11-09-2021 20:49:17,ERROR,Excepted integer got String
+11-09-2021 20:49:25,INFO,POST Method is requested
+11-09-2021 20:49:25,INFO,Model which is in Pickle format is loaded
+11-09-2021 20:49:25,INFO,Data is Converted 
+11-09-2021 20:49:25,INFO,Threading Called !
+11-09-2021 20:49:26,INFO,Threading Created !
+11-09-2021 20:49:26,INFO,Threading Started !
+11-09-2021 20:49:26,INFO,Data for Database: {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': -78, 'submit': ' Prediction'}
+11-09-2021 20:49:26,INFO,Data is received  : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Departure_Date': '2021-09-22', 'Total_Duration': -78, 'submit': ' Prediction'}
+11-09-2021 20:49:26,INFO,Data Cleaned : {'Airline': 'IndiGo', 'Source': 'Banglore', 'Destination': 'Delhi', 'Total_Stops': 'non-stop', 'Total_Duration': -78, 'Journey_month': '09', 'Journey_day': '22'}
+11-09-2021 20:49:26,INFO,Frame created and data appended
+11-09-2021 20:49:26,INFO,Dummy variables created from received data
+11-09-2021 20:49:26,INFO,Data scaled and sent for prediction
+11-09-2021 20:49:26,INFO,Threading join !
+11-09-2021 20:49:26,INFO,Prediction is done successfully!
+11-09-2021 20:49:26,INFO,Output displayed!
+11-09-2021 20:49:33,INFO,POST Method is requested
+11-09-2021 20:49:33,INFO,Model which is in Pickle format is loaded
+11-09-2021 20:49:33,INFO,Data is Converted 
