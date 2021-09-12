@@ -21,7 +21,7 @@ Heroku link:https://flight-fare-prediction1301.herokuapp.com/
 link :https://drive.google.com/file/d/15q6KR-QtElt33bbBePW-b4L3wNcBfkwI/view?usp=sharing
 
 ## User Interface:
-
+![Capture](https://user-images.githubusercontent.com/63538576/132983915-1bad4b43-9ecc-4315-8ea1-bed335c5b898.JPG)
 
 ## Technologies Used:
 1. Python 
