@@ -13,10 +13,11 @@ The main goal is to predict the fares of the flights based on different factors 
 5.Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV and randomizedSearchCV.<br>
 6.Pickle File          :  Selected model as per best accuracy and created pickle file using joblib .<br>
 7.Webpage & deployment :  Created a webform that takes all the necessary inputs from user and shows output.<br>
-                                After that I have deployed project on heroku platform.<br>
+                                After that I have deployed project on google cloud as well as on heroku platform.<br>
                                
 ## Deployment Links:
 Heroku link:https://flight-fare-prediction1301.herokuapp.com/
+cloud link : https://poojasharmaflight1301.web.app/
 ## Project demo Video :
 link :https://drive.google.com/file/d/15q6KR-QtElt33bbBePW-b4L3wNcBfkwI/view?usp=sharing
 
