@@ -21,7 +21,7 @@ Heroku link:https://flight-fare-prediction1301.herokuapp.com/
 HLD:https://drive.google.com/file/d/1VNrGqN16iCgqBUTg9VxXhNbl4YiY7F0_/view?usp=sharing
 LLD:https://drive.google.com/file/d/1NX7Mj5VLeTUXQmOZCGPt7FRyumbpA1j5/view?usp=sharing
 WIREFRAME:https://drive.google.com/file/d/1qJGx2ZfEdT-JYk0pIfN3luq_kmIznlV7/view?usp=sharing
-AIRCHITECTURE:https://drive.google.com/file/d/1DmB-w3b9ybNIlAfkL0mUefjIxdoQ3_1i/view?usp=sharing
+AIRCHITECTURE:https://drive.google.com/file/d/1DmB-w3b9ybNIlAfkL0mUefjIxdoQ3_1i/view?usp=sharing<br>
 DETAIL PROJECT REPORT:https://docs.google.com/presentation/d/1LhrgfBB0DcC-EK55csziQyYdDSqqD9qQ/edit?usp=sharing&ouid=109212327374033013344&rtpof=true&sd=true
 ## Project demo Video :
 link :https://drive.google.com/file/d/15q6KR-QtElt33bbBePW-b4L3wNcBfkwI/view?usp=sharing
@@ -49,15 +49,15 @@ link :https://drive.google.com/file/d/15q6KR-QtElt33bbBePW-b4L3wNcBfkwI/view?usp
 
 ## Run Locally
 1.Clone the project<br>
-  git clone https://github.com/Poojasharma1301/iNeuron_internship
-Go to the project directory<br>
-  cd iNeuron_Internship
-Install dependencies<br>
-  pip install -r requirements.txt
-Setting up the Controllers files<br>
-    Update the values inside the Controllers folder
-Run the app.py<br>
-  python app.py
+  git clone https://github.com/Poojasharma1301/iNeuron_internship<br>
+2.Go to the project directory<br>
+  cd iNeuron_Internship<br>
+3.Install dependencies<br>
+  pip install -r requirements.txt<br>
+4.Setting up the Controllers files<br>
+    Update the values inside the Controllers folder<br>
+5.Run the app.py<br>
+  python app.py<br>
 
 ## Help Me Improve
 Hello Reader if you find any bug please consider raising issue I will address them asap.
