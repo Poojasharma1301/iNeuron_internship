@@ -24,7 +24,7 @@ WIREFRAME:https://drive.google.com/file/d/1qJGx2ZfEdT-JYk0pIfN3luq_kmIznlV7/view
 AIRCHITECTURE:https://drive.google.com/file/d/1DmB-w3b9ybNIlAfkL0mUefjIxdoQ3_1i/view?usp=sharing<br>
 DETAIL PROJECT REPORT:https://docs.google.com/presentation/d/1LhrgfBB0DcC-EK55csziQyYdDSqqD9qQ/edit?usp=sharing&ouid=109212327374033013344&rtpof=true&sd=true
 ## Project demo Video :
-link :https://drive.google.com/file/d/15q6KR-QtElt33bbBePW-b4L3wNcBfkwI/view?usp=sharing
+link :https://drive.google.com/file/d/1BiLltpAUCZ7qcaluoLdT1Gg0tZz8DneA/view?usp=sharing
 
 ## User Interface:
 ![Capture](https://user-images.githubusercontent.com/63538576/132983915-1bad4b43-9ecc-4315-8ea1-bed335c5b898.JPG)
